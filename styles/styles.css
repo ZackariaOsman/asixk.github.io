@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+}
+h2{
+    color: white;
+    font-size: 50px;
+
+}
+body{
+    background-color: #40423a;
+}
+pre{
+    color: #5ada86;
+    font-size: 30px;
+    margin-left: 150px;
+}
+pre a:link{
+    color: #5ada86
+}
+pre a:visited{
+    color: blue;
+}
+.row1, .row2, .row3{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 99px;
+}
