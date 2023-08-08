@@ -30,7 +30,6 @@ pre a:visited{
 .menu-bar {
     background-color: #333;
     overflow: hidden;
-
     position: sticky;
     top: 0;
     padding: 10px;
